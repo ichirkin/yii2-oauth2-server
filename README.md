@@ -11,13 +11,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist filsh/yii2-oauth2-server "*"
+php composer.phar require --prefer-dist ichirkin/yii2-oauth2-server "*"
 ```
 
 or add
 
 ```json
-"filsh/yii2-oauth2-server": "~2.0"
+"ichirkin/yii2-oauth2-server": "~2.0"
 ```
 
 to the require section of your composer.json.
